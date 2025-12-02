@@ -1,0 +1,5 @@
+[workspace]
+members = ["day_01", "day_02"]
+name = "AOC_2025"
+version = "0.1.0"
+edition = "2024"
